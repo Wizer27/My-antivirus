@@ -1,4 +1,15 @@
 # My-antivirus
-I created my own antivirus (with only 100 lines of code).Hope you like it)
-But you cant use it as a normal antivirus, my code is scanning all your files(with your permission) and says which of them can be a virus.
-I still work on this project and i will update it soon.
+
+<I am working on my own antivirus with 100 code lines
+
+You can use it partly but now it is not done yet. Now <b>antivirus<b> just scan your files. Antivirus just scan your files now.
+
+## Installation
+
+```bash
+pip install -r requirements.txt
+```
+
+```bash
+python VinApp.py
+```
