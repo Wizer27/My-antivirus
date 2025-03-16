@@ -1,0 +1,4 @@
+customtkinter = 5.2.2
+threading = 3.0.9
+hashlib = 2.0.1
+
