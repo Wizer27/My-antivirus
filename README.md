@@ -7,9 +7,9 @@ You can use it partly but now it is not done yet. Now <b>antivirus<b> just scan 
 ## Installation
 
 ```bash
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 ```bash
-python VinApp.py
+python3 VinApp.py
 ```
